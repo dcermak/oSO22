@@ -1,0 +1,18 @@
+* openSUSE Summit at OSCAL 2022:  What made your container fat?
+
+This repository contains the slides for my presentation at the [[https://events.opensuse.org/conferences/oSO22/program/proposals/3740][openSUSE Summit at OSCAL 2022]].
+
+You can find the rendered slides here: [[https://dcermak.github.io/oSO22/container-layer-analyzer.html][dcermak.github.io/oSO22]].
+
+
+** Building the slides
+
+You can create the html slides yourself from within Emacs by opening the
+[[./container-layer-analyzer.org]] file, launching =org-mode= and executing ~(require
+'ox-reveal)~ (you might have to install =ox-reveal= beforehand). Then export the
+org file to reveal.js (this is by default bound to the keychord =C-c C-e R R=).
+
+If you are not a Emacs user, then just install Emacs and execute:
+#+begin_src bash
+emacs container-layer-analyzer.org -Q --batch -l export-init.el -f org-reveal-export-to-html --kill
+#+end_src

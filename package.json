@@ -1,0 +1,13 @@
+{
+  "name": "oSO22",
+  "version": "0.1.0",
+  "description": "Slides of my talk held at the openSUSE Summit at OSCAL 2022",
+  "author": "Dan Čermák <dcermak@suse.com>",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "eos-icons": "^5.4.0",
+    "reveal.js": "^4.3.1"
+  }
+}
