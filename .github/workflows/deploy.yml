@@ -1,0 +1,53 @@
+---
+name: Deploy the presentation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: registry.fedoraproject.org/fedora:36
+
+    name: build the presentation
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: build the webpage
+        run: |
+          dnf -y module enable nodejs:16
+          dnf -y install --refresh emacs yarnpkg nodejs git
+          yarn install
+          emacs container-layer-analyzer.org -Q --batch -l export-init.el -f org-reveal-export-to-html --kill
+
+      - name: copy the webpage to build
+        run: |
+          cp --recursive media/ build/
+          cp --recursive node_modules/ build/
+          cp *.html build/
+
+      - name: upload the build directory
+        uses: actions/upload-artifact@v2
+        with:
+          name: build
+          path: ./build
+
+  deploy:
+    name: deploy to the gh-pages branch
+    runs-on: ubuntu-latest
+    needs: build
+    if: ${{ github.ref == 'refs/heads/main' }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: build
+          path: ./build
+
+      - name: deploy to github pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: build
