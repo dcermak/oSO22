@@ -1,0 +1,36 @@
+{
+  "fileName": "shopping_cart_checkout",
+  "name": "shopping_cart_checkout",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "add",
+    "buy",
+    "bill",
+    "pay",
+    "dollars",
+    "commerce",
+    "cart",
+    "money",
+    "online",
+    "currency",
+    "payment",
+    "credit",
+    "cash",
+    "checkout",
+    "card",
+    "coin",
+    "shopping",
+    "market",
+    "shop",
+    "grocery",
+    "store",
+    "local"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

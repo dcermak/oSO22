@@ -1,0 +1,19 @@
+{
+  "fileName": "keyboard_option_key",
+  "name": "keyboard_option_key",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "alt",
+    "computer",
+    "control",
+    "interface",
+    "directions"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

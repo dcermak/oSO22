@@ -1,0 +1,21 @@
+{
+  "fileName": "currency_exchange",
+  "name": "currency_exchange",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "cash",
+    "finance",
+    "money",
+    "coin",
+    "billing",
+    "payment",
+    "trading"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

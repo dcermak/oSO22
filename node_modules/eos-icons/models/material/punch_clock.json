@@ -1,0 +1,14 @@
+{
+  "name": "punch_clock",
+  "do": "",
+  "dont": "",
+  "tags": ["alarm", "timer", "watch"],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

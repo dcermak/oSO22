@@ -1,0 +1,14 @@
+{
+  "name": "deblur",
+  "do": "",
+  "dont": "",
+  "tags": ["photography", "photo", "bokeh"],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

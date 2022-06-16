@@ -1,0 +1,20 @@
+{
+  "fileName": "hls_off",
+  "name": "hls_off",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "live",
+    "streaming",
+    "protocol",
+    "communications",
+    "disabled",
+    "cancel"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

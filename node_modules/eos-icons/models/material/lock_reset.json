@@ -1,0 +1,24 @@
+{
+  "name": "lock_reset",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "private",
+    "safe",
+    "lock",
+    "privacy",
+    "connection",
+    "locked",
+    "secure",
+    "key",
+    "https"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

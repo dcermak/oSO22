@@ -1,0 +1,24 @@
+{
+  "fileName": "newspaper",
+  "name": "newspaper",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "articles",
+    "press",
+    "news",
+    "journalism",
+    "release",
+    "promotion",
+    "publication",
+    "content",
+    "media",
+    "print"
+  ],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

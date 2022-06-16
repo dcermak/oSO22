@@ -1,0 +1,14 @@
+{
+  "name": "phishing",
+  "do": "",
+  "dont": "",
+  "tags": ["password", "scam", "crime", "cyber", "email", "hack", "internet", "malware" ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

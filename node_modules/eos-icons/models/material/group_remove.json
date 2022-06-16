@@ -1,0 +1,14 @@
+{
+  "name": "group_remove",
+  "do": "",
+  "dont": "",
+  "tags": ["disabled", "users", "people", "cancel"],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "castle",
+  "do": "",
+  "dont": "",
+  "tags": ["architecture", "building", "fort", "fortification", "history", "medieval", "place", "fantasy"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "view_timeline",
+  "do": "",
+  "dont": "",
+  "tags": ["eye", "search", "find", "Magnifier", "Zoom"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

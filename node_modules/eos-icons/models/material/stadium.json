@@ -1,0 +1,14 @@
+{
+  "name": "stadium",
+  "do": "",
+  "dont": "",
+  "tags": ["arena", "concert", "sporting", "sports", "stade", "building", "game"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

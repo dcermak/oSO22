@@ -1,0 +1,17 @@
+{
+  "fileName": "south_america",
+  "name": "south_america",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "capital",
+    "country",
+    "place"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

@@ -1,0 +1,21 @@
+{
+  "fileName": "wifi_channel",
+  "name": "wifi_channel",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "communication",
+    "router",
+    "multiply",
+    "digital",
+    "information",
+    "internet",
+    "media"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

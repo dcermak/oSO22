@@ -1,0 +1,14 @@
+{
+  "name": "pinch",
+  "do": "",
+  "dont": "",
+  "tags": ["gesture", "hand", "swipe", "touch", "zoom"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

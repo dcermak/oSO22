@@ -1,0 +1,11 @@
+{
+  "name": "pause_circle",
+  "do": "",
+  "dont": "",
+  "tags": ["Pause", "controls", "music", "control", "video"],
+  "category": ["av"],
+  "type": "static",
+  "hasOutlined": true,
+  "date": "30/11/2020",
+  "dateOutlined": "06/04/2021"
+}

@@ -1,0 +1,18 @@
+{
+  "fileName": "line_axis",
+  "name": "line_axis",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "analytics",
+    "bar",
+    "chart",
+    "finance"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hive",
+  "do": "",
+  "dont": "",
+  "tags": ["bee", "farm", "abstract", "flower", "nature", "beekeeper", "honeycomb", "insect", "honey", "sting", "bumblebee"],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ai",
+  "do": "<ul><li>Use this icon to  indicate or perform AI actions/tasks.</li></ul>",
+  "dont": "<ul><li>Don't use it as a circuit or computer memory. Don't use it for machine learning since it has its own icon.</li></ul>",
+  "tags": [
+    "eos",
+    "artificial intelligence",
+    "deep learning",
+    "machine intelligence"
+  ],
+  "category": "artificial intelligence",
+  "type": "static",
+  "date": "30/11/2020"
+}

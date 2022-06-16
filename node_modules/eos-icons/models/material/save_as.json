@@ -1,0 +1,14 @@
+{
+  "name": "save_as",
+  "do": "",
+  "dont": "",
+  "tags": ["disk", "multimedia", "file", "floppy", "document", "save", "edit"],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

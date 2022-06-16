@@ -1,0 +1,12 @@
+{
+  "name": "back_hand",
+  "do": "",
+  "dont": "",
+  "tags": ["palm"],
+  "category": ["social"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

@@ -1,0 +1,24 @@
+{
+  "fileName": "domain_add",
+  "name": "domain_add",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "Domain",
+    "building",
+    "disabled",
+    "enabled",
+    "internet",
+    "off",
+    "on",
+    "slash",
+    "web",
+    "website"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

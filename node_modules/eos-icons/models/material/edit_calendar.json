@@ -1,0 +1,20 @@
+{
+  "name": "edit_calendar",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "pencil",
+    "change",
+    "adapt",
+    "annotate",
+    "alter",
+    "date",
+    "appointment"
+  ],
+  "category": ["action"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

@@ -1,0 +1,19 @@
+{
+  "fileName": "keyboard_double_arrow_down",
+  "name": "keyboard_double_arrow_down",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "cmd",
+    "computer",
+    "control",
+    "interface",
+    "directions"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

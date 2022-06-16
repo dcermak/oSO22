@@ -1,0 +1,9 @@
+{
+  "name": "augmented_reality",
+  "do": "<ul><li>Use this icon for augmented reality applications or software</li></ul>",
+  "dont": "<ul><li>Don't use it for virtual reality</li></ul>",
+  "tags": ["ar", "real world", "interactive", "real life", "experience", "eos"],
+  "category": "augmented reality",
+  "type": "static",
+  "date": "9/2/2021"
+}

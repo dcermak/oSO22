@@ -1,0 +1,14 @@
+{
+  "name": "vpn_key_off",
+  "do": "",
+  "dont": "",
+  "tags": ["password", "code", "unlock", "Vpn", "lock", "key", "passcode", "delete", "cancel"],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

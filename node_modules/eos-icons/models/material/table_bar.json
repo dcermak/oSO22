@@ -1,0 +1,14 @@
+{
+  "name": "table_bar",
+  "do": "",
+  "dont": "",
+  "tags": ["bar", "design", "furniture", "household", "out side", "interior", "catering", "food", "meal"],
+  "category": [
+    "search"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

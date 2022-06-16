@@ -1,0 +1,23 @@
+{
+  "name": "airlines",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "direct",
+    "flight",
+    "fly",
+    "plane",
+    "international",
+    "global",
+    "Airplane",
+    "transports"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

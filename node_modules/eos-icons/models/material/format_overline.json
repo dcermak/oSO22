@@ -1,0 +1,27 @@
+{
+  "fileName": "format_overline",
+  "name": "format_overline",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "editor",
+    "color",
+    "edit",
+    "paint",
+    "fill",
+    "type",
+    "editing",
+    "writing",
+    "doc",
+    "sheet",
+    "style",
+    "text",
+    "speadsheet"
+  ],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

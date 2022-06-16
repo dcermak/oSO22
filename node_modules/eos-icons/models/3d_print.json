@@ -1,0 +1,9 @@
+{
+  "name": "3d_print",
+  "do": "<ul><li>Use it for 3D printer devices</li></ul>",
+  "dont": "<ul><li>n/a</li></ul>",
+  "tags": ["3d", "printer", "three dimensional", "model", "modelling", "eos"],
+  "category": "device",
+  "type": "static",
+  "date": "29/9/2021"
+}

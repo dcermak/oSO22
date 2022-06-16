@@ -1,0 +1,19 @@
+{
+  "fileName": "webhook",
+  "name": "webhook",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "Web hacking",
+    "web",
+    "account",
+    "web steal",
+    "phishing"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

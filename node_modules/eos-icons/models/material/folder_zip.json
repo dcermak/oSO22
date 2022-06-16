@@ -1,0 +1,14 @@
+{
+  "name": "folder_zip",
+  "do": "",
+  "dont": "",
+  "tags": ["portfolio", "data", "directory", "documents", "repository", "compact", "compressed"],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

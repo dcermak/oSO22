@@ -1,0 +1,26 @@
+{
+  "fileName": "text_decrease",
+  "name": "text_decrease",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "add",
+    "input",
+    "symbol",
+    "character",
+    "field",
+    "letter",
+    "alphabet",
+    "text",
+    "type",
+    "font",
+    "remove",
+    "small"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

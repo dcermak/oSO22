@@ -1,0 +1,14 @@
+{
+  "name": "cookie",
+  "do": "",
+  "dont": "",
+  "tags": ["biscuits", "treat", "privacy", "compliance", "data", "security", "web", "cached", "internet", "policy" ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,19 @@
+{
+  "fileName": "start",
+  "name": "start",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "control",
+    "play",
+    "arrow",
+    "control",
+    "play"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

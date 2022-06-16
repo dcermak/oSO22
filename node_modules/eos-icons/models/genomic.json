@@ -1,0 +1,18 @@
+{
+  "name": "genomic",
+  "do": "<ul><li>Use it to indicate any process, tool, or action/topic related to the study of genetics.</li></ul>",
+  "dont": "<ul><li>n/a</li></ul>",
+  "tags": [
+    "genetic",
+    "genome",
+    "DNA",
+    "structure",
+    "function",
+    "mappings",
+    "genes",
+    "eos"
+  ],
+  "category": "social",
+  "type": "static",
+  "date": "14/09/2021"
+}

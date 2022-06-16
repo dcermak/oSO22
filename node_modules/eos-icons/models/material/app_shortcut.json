@@ -1,0 +1,19 @@
+{
+  "name": "app_shortcut",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "application",
+    "communicate",
+    "development",
+    "mobile"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,19 @@
+{
+  "fileName": "123",
+  "name": "123",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "digits",
+    "numbers",
+    "one",
+    "two",
+    "three"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

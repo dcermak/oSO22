@@ -1,0 +1,14 @@
+{
+  "name": "co_present",
+  "do": "",
+  "dont": "",
+  "tags": ["teaching", "operation", "work", "coordinate", "coordination"],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

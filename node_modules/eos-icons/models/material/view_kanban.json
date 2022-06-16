@@ -1,0 +1,14 @@
+{
+  "name": "view_kanban",
+  "do": "",
+  "dont": "",
+  "tags": ["Card", "layout", "stack", "trello", "agile", "development", "lean", "product management"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

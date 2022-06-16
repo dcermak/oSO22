@@ -1,0 +1,20 @@
+{
+  "fileName": "currency_yuan",
+  "name": "currency_yuan",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "cash",
+    "finance",
+    "money",
+    "coin",
+    "payment",
+    "bills"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

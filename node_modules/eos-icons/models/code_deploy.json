@@ -1,0 +1,22 @@
+{
+  "name": "code_deploy",
+  "do": "<ul><li>Use it to deploy code to your server/container.</li></ul>",
+  "dont": "<ul><li>Don't use it code coding or terminal.</li></ul>",
+  "tags": [
+    "establish",
+    "distribute",
+    "employ",
+    "code",
+    "software",
+    "application",
+    "install",
+    "parachute",
+    "release",
+    "eos"
+  ],
+  "category": "virtualization",
+  "type": "static",
+  "date": "16/08/2021",
+  "hasOutlined": true,
+  "dateOutlined": "16/08/2021"
+}

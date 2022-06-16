@@ -1,0 +1,21 @@
+{
+  "name": "ai_healing",
+  "do": "<ul><li>Use it in AI applications when the action will fix/heal an AI module, process, etc.</li></ul>",
+  "dont": "<ul><li>Don't use it as a form of Like or feedback in any shape or form.</li></ul>",
+  "tags": [
+    "artificial",
+    "intelligence",
+    "robot",
+    "heart",
+    "fix",
+    "solve",
+    "resolve",
+    "heal",
+    "eos"
+  ],
+  "category": "artificial intelligence",
+  "type": "static",
+  "date": "14/05/2021",
+  "hasOutlined": true,
+  "dateOutlined": "14/05/2021"
+}

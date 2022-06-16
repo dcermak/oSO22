@@ -1,0 +1,14 @@
+{
+  "name": "signpost",
+  "do": "",
+  "dont": "",
+  "tags": ["arrows", "country", "direction", "navigation", "pointer"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

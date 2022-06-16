@@ -1,0 +1,14 @@
+{
+  "name": "watch_off",
+  "do": "",
+  "dont": "",
+  "tags": ["device", "time", "clock", "cancel"],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "medication_liquid",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "drug",
+    "emergency",
+    "hospital",
+    "medication",
+    "medicine",
+    "pharmacy",
+    "prescription"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

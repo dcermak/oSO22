@@ -1,0 +1,14 @@
+{
+  "name": "rotate_90_degrees_cw",
+  "do": "",
+  "dont": "",
+  "tags": ["camera", "setting", "image"],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

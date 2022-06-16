@@ -1,0 +1,9 @@
+{
+  "name": "drone",
+  "do": "<ul><li>Use it for aerial remote controlled vehicles or aircrafts.</li></ul>",
+  "dont": "<ul><li>n/a</li></ul>",
+  "tags": ["aircraft", "UAV", "fly", "remote controlled", "RC", "eos"],
+  "category": "hardware",
+  "type": "static",
+  "date": "9/14/2021"
+}

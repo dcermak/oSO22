@@ -1,0 +1,22 @@
+{
+  "fileName": "add_card",
+  "name": "add_card",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "charge",
+    "money",
+    "pay",
+    "information",
+    "payment",
+    "credit",
+    "card",
+    "info"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

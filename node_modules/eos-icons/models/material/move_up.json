@@ -1,0 +1,19 @@
+{
+  "fileName": "move_up",
+  "name": "move_up",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "arrow",
+    "cube",
+    "down",
+    "direction",
+    "navigation"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

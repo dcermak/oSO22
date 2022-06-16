@@ -1,0 +1,25 @@
+{
+  "name": "event_repeat",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "seat",
+    "chair",
+    "reservation",
+    "assigned",
+    "section",
+    "row",
+    "event",
+    "assign",
+    "recurring",
+    "agenda"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

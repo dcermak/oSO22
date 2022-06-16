@@ -1,0 +1,14 @@
+{
+  "name": "filter_alt_off",
+  "do": "",
+  "dont": "",
+  "tags": ["filter", "funnel", "refine", "sift"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

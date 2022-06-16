@@ -1,0 +1,22 @@
+{
+  "name": "insert_page_break",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "images",
+    "mountain",
+    "collection",
+    "media",
+    "photos",
+    "photography",
+    "document"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

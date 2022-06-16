@@ -1,0 +1,20 @@
+{
+  "fileName": "install_desktop",
+  "name": "install_desktop",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "arrow",
+    "download",
+    "import",
+    "repair",
+    "software",
+    "computer"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

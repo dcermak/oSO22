@@ -1,0 +1,22 @@
+{
+  "fileName": "sports_martial_arts",
+  "name": "sports_martial_arts",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "uniform",
+    "hobby",
+    "exercise",
+    "self defense",
+    "black belt",
+    "karate",
+    "training",
+    "kungfu"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

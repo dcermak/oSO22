@@ -1,0 +1,14 @@
+{
+  "name": "temple_buddhist",
+  "do": "",
+  "dont": "",
+  "tags": ["temple", "travel", "pagoda", "asia", "religious", "monk", "religion", "stupa"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "free_cancellation",
+  "do": "",
+  "dont": "",
+  "tags": ["appointment", "calendar", "date", "check", "gratis"],
+  "category": ["action"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

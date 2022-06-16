@@ -1,0 +1,23 @@
+{
+  "name": "file_open",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "content",
+    "arrow down",
+    "folder",
+    "storage",
+    "document",
+    "on",
+    "off",
+    "save"
+  ],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

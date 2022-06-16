@@ -1,0 +1,14 @@
+{
+  "name": "candlestick_chart",
+  "do": "",
+  "dont": "",
+  "tags": ["brokerage", "candle", "forex", "business", "finance", "graph", "investment", "stocks"],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bedtime_off",
+  "do": "",
+  "dont": "",
+  "tags": ["snoozle", "sleep", "slumbertime", "night"],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

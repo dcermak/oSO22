@@ -1,0 +1,18 @@
+{
+  "fileName": "hls",
+  "name": "hls",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "live",
+    "streaming",
+    "protocol",
+    "communications"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

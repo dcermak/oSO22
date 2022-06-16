@@ -1,0 +1,14 @@
+{
+  "name": "arrow_circle_left",
+  "do": "",
+  "dont": "",
+  "tags": ["direction", "left", "right", "arrows"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

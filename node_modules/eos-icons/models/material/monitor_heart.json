@@ -1,0 +1,22 @@
+{
+  "name": "monitor_heart",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "body",
+    "device",
+    "diet",
+    "health",
+    "monitor",
+    "scale",
+    "smart"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

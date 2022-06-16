@@ -1,0 +1,27 @@
+{
+  "fileName": "ssid_chart",
+  "name": "ssid_chart",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "analytics",
+    "bar",
+    "bars",
+    "chart",
+    "data",
+    "diagram",
+    "graph",
+    "infographic",
+    "measure",
+    "metrics",
+    "stacked",
+    "statistics",
+    "tracking"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

@@ -1,0 +1,19 @@
+{
+  "fileName": "filter_list_off",
+  "name": "filter_list_off",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "filter",
+    "organize",
+    "find",
+    "sort",
+    "list"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

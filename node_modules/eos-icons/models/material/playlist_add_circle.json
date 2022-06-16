@@ -1,0 +1,23 @@
+{
+  "name": "playlist_add_circle",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "add",
+    "play",
+    "Playlist",
+    "music",
+    "checkmark",
+    "check",
+    "collection",
+    "list"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

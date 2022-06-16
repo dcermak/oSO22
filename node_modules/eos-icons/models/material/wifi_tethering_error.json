@@ -1,0 +1,31 @@
+{
+  "fileName": "wifi_tethering_error",
+  "name": "wifi_tethering_error",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "cell",
+    "cellular",
+    "data",
+    "disabled",
+    "enabled",
+    "error",
+    "internet",
+    "mobile",
+    "network",
+    "off",
+    "on",
+    "phone",
+    "slash",
+    "speed",
+    "tethering",
+    "wifi",
+    "wireless"
+  ],
+  "category": [
+    "device"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

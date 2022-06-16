@@ -1,0 +1,14 @@
+{
+  "name": "difference",
+  "do": "",
+  "dont": "",
+  "tags": ["contrast", "graphic", "split", "merge", "separated"],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "database_migration",
+  "do": "<ul><li>Use this icon for database migrations or related tasks.</li></ul>",
+  "dont": "<ul><li>Don't use it for database renaming.</li></ul>",
+  "tags": [
+    "db",
+    "information",
+    "schema",
+    "relocation",
+    "relocatting",
+    "moving",
+    "arrow",
+    "storage",
+    "eos"
+  ],
+  "category": "development",
+  "type": "static",
+  "date": "8/9/2021",
+  "hasOutlined": true,
+  "dateOutlined": "8/9/2021"
+}

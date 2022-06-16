@@ -1,0 +1,14 @@
+{
+  "name": "egg",
+  "do": "",
+  "dont": "",
+  "tags": [ "food", "kitchen", "breakfast", "meal", "omelet",  "fried", "cooking" ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

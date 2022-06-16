@@ -1,0 +1,21 @@
+{
+  "fileName": "sync_lock",
+  "name": "sync_lock",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "refresh",
+    "reload",
+    "update",
+    "off",
+    "arrow",
+    "padlock",
+    "secure"
+  ],
+  "category": [
+    "notification"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

@@ -1,0 +1,21 @@
+{
+  "fileName": "connecting_airports",
+  "name": "connecting_airports",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "connection",
+    "global",
+    "transportation",
+    "plan",
+    "flight",
+    "link",
+    "networking"
+  ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "folder_delete",
+  "do": "",
+  "dont": "",
+  "tags": ["folder", "file", "open", "cancel", "remove", "storage"],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

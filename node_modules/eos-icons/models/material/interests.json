@@ -1,0 +1,14 @@
+{
+  "name": "interests",
+  "do": "",
+  "dont": "",
+  "tags": ["hobbies", "skill", "love", "favourite"],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

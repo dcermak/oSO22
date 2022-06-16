@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>comparison mode</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:300,400"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        background: #fff;
+        color: #141823;
+        font-size: 16px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        margin: 0;
+      }
+
+      .container {
+        padding: 16px;
+      }
+
+      header {
+        background: #fe673a;
+        margin-bottom: 2em;
+        position: fixed;
+        top: 0px;
+        width: 100%;
+        z-index: 1;
+      }
+
+      .icons-container {
+        margin-top: 120px;
+      }
+
+      h1,
+      footer {
+        font-family: 'Lato', sans-serif;
+        font-weight: 300;
+      }
+
+      h1 {
+        font-size: 32px;
+        margin: 0px;
+        color: white;
+      }
+
+      h2 small {
+        font-size: 0.5em;
+      }
+
+      h3 {
+        text-align: center;
+      }
+
+      .latest {
+        border: 1px solid #b7b7b7;
+        margin-bottom: 30px;
+      }
+
+      .two-columns {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+      }
+
+      .icons__item,
+      .icons__item i {
+        cursor: pointer;
+        text-align: center;
+      }
+
+      .icons__item:hover {
+        color: #fe673a;
+      }
+
+      .icons__item {
+        display: inline-block;
+        margin-bottom: 3em;
+        width: 200px;
+      }
+
+      .icons__item i {
+        font-size: 48px;
+      }
+
+      .how-to-use,
+      .how-to-use-animated {
+        background: #333;
+        bottom: 44px;
+        position: fixed;
+        width: 100%;
+      }
+
+      footer {
+        background: #ededed;
+        bottom: 0px;
+        color: #999;
+        font-size: 14px;
+        position: fixed;
+        width: 100%;
+      }
+
+      .text-white {
+        color: white;
+      }
+
+      pre {
+        background: #dedede;
+        padding: 16px;
+      }
+
+      .pull-right {
+        float: right;
+      }
+
+      #close-code-snippet,
+      #close-code-snippet-animated {
+        cursor: pointer;
+      }
+
+      .eos-logo-color-gradients {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff890a+0,ff420a+50,bc0289+100 */
+        background: #ff890a;
+        background: -moz-linear-gradient(
+          -45deg,
+          #ff890a 0%,
+          #ff420a 50%,
+          #bc0289 100%
+        );
+        background: -webkit-linear-gradient(
+          -45deg,
+          #ff890a 0%,
+          #ff420a 50%,
+          #bc0289 100%
+        );
+        background: linear-gradient(
+          135deg,
+          #ff890a 0%,
+          #ff420a 50%,
+          #bc0289 100%
+        );
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff890a', endColorstr='#bc0289', GradientType=1);
+      }
+
+      .toolbar {
+        padding: 10px;
+      }
+
+      .version {
+        font-size: 12px;
+      }
+
+      .extended-version-wrap {
+        margin-bottom: 10px;
+        display: flex;
+        margin: 0 0 30px 60px;
+      }
+
+      .extended-version-wrap a {
+        padding: 10px 14px;
+        background: #e6e6e6;
+        border-radius: 5px;
+        color: #1f1f1f;
+        text-decoration: none;
+        border: 1px solid #d0d0d0;
+      }
+
+      #icons-animated img {
+        width: 48px;
+      }
+
+      /* switch button css  */
+      .switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        height: 24px;
+        margin: 0 10px 20px 0;
+      }
+
+      .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+
+      .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ccc;
+        -webkit-transition: 0.4s;
+        transition: 0.4s;
+      }
+
+      .slider:before {
+        position: absolute;
+        content: '';
+        height: 18px;
+        width: 18px;
+        left: 3px;
+        bottom: 3px;
+        background-color: white;
+        -webkit-transition: 0.4s;
+        transition: 0.4s;
+      }
+
+      input:checked + .slider {
+        background-color: #2196f3;
+      }
+
+      input:focus + .slider {
+        box-shadow: 0 0 1px #2196f3;
+      }
+
+      input:checked + .slider:before {
+        -webkit-transform: translateX(26px);
+        -ms-transform: translateX(26px);
+        transform: translateX(26px);
+      }
+
+      /* Rounded sliders */
+      .slider.round {
+        border-radius: 12px;
+      }
+
+      .slider.round:before {
+        border-radius: 50%;
+      }
+      /* Rounded sliders */
+      .tabs-container {
+        display: flex;
+      }
+      .icons-tab {
+        width: 25%;
+        text-align: center;
+        padding: 10px;
+        border: 1px solid #b7b7b7;
+        border-bottom: 0;
+        cursor: pointer;
+      }
+
+      .icons-tab:first-of-type {
+        border-right: 0;
+      }
+
+      .selected {
+        background-color: #333;
+        color: #fff;
+      }
+
+      .controls {
+        display: flex;
+        position: relative;
+        top: -30px;
+      }
+
+      .controls > div {
+        margin-right: 15px;
+      }
+
+      code {
+        background: #f4f4f4;
+        border: 1px solid #ddd;
+        border-left: 3px solid #f36d33;
+        color: #666;
+        page-break-inside: avoid;
+        font-family: monospace;
+        font-size: 15px;
+        margin-bottom: 1.6em;
+        max-width: 100%;
+        overflow: auto;
+        padding: 1em 1.5em;
+        display: block;
+        word-wrap: break-word;
+      }
+
+      .CORS-error {
+        display: none;
+      }
+
+      .visible {
+        display: block;
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="css/eos-icons.css"
+      id="css-link"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="css/eos-icons-outlined.css"
+      id="css-link"
+    />
+    <script src="js/eos-icons.js"></script>
+  </head>
+
+  <body>
+    <header class="eos-logo-color-gradients">
+      <div class="container two-columns">
+        <h1>EOS Icons comparison mode</h1>
+      </div>
+    </header>
+
+    <div id="eos-icons-preview" class="container icons-container">
+      <div class="controls">
+        <a href="index.html">back to home</a>
+      </div>
+      <div class="CORS-error">
+        Please run ther server to access this page by running on ther terminal:
+        <code> npm run serve </code>
+        and then go to
+        <a href="http://localhost:8000/comparison.html">
+          http://localhost:8000/comparison.html
+        </a>
+      </div>
+
+      <div id="icons"></div>
+    </div>
+
+    <footer>
+      <div class="container">
+        Download from gitlab at
+        <a href="https://gitlab.com/SUSE-UIUX/eos-icons">EOS icons</a>. Thanks
+        to <a href="https://github.com/sapegin/grunt-webfont">grunt-webfont</a>.
+      </div>
+    </footer>
+
+    <script src="js/comparison-mode.js"></script>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "fileName": "text_increase",
+  "name": "text_increase",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "add",
+    "input",
+    "symbol",
+    "character",
+    "field",
+    "letter",
+    "alphabet",
+    "text",
+    "type",
+    "font",
+    "big"
+  ],
+  "category": [
+    "editor"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

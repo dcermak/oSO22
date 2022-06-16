@@ -1,0 +1,14 @@
+{
+  "name": "table_restaurant",
+  "do": "",
+  "dont": "",
+  "tags": ["dinner", "furniture", "counter", "drink", "interior", "catering", "food", "meal" ],
+  "category": [
+    "search"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

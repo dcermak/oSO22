@@ -1,0 +1,23 @@
+{
+  "name": "shield_moon",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "certified",
+    "document",
+    "legal",
+    "policy",
+    "protection",
+    "secure",
+    "security",
+    "shield"
+  ],
+  "category": [
+    "home"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

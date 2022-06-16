@@ -1,0 +1,14 @@
+{
+  "name": "fax",
+  "do": "",
+  "dont": "",
+  "tags": ["paper", "print", "printer", "printing", "office", "phone", "documents", "connection", "contact", "machine", "device"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "cruelty_free",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "bunny",
+    "animal",
+    "savage",
+    "savagery",
+    "torture",
+    "rabbit",
+    "rodent"
+  ],
+  "category": ["social"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cloud_sync",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "cloud",
+    "server",
+    "storage",
+    "remote",
+    "off",
+    "abort",
+    "omit",
+    "remove"
+  ],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

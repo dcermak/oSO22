@@ -1,0 +1,22 @@
+{
+  "name": "expand_circle_down",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "arrow",
+    "arrows",
+    "compress",
+    "expand",
+    "grow",
+    "move",
+    "push"
+  ],
+  "category": [
+    "navigation"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

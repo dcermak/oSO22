@@ -1,0 +1,21 @@
+{
+  "fileName": "playlist_remove",
+  "name": "playlist_remove",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "play",
+    "Playlist",
+    "music",
+    "collection",
+    "list",
+    "cancel",
+    "delete"
+  ],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

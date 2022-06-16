@@ -1,0 +1,18 @@
+{
+  "fileName": "balance",
+  "name": "balance",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "justice",
+    "law",
+    "scale",
+    "weight"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

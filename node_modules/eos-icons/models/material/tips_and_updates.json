@@ -1,0 +1,12 @@
+{
+  "name": "tips_and_updates",
+  "do": "",
+  "dont": "",
+  "tags": ["bulb", "light", "star", "ideas", "advice"],
+  "category": ["action"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

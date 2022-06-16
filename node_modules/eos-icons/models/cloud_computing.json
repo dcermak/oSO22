@@ -1,0 +1,24 @@
+{
+  "name": "cloud_computing",
+  "do": "<ul><li>Use it to indicate cloud computing services or status. Specifically, use it to inditate on-demand online services in a high level fashion.</li></ul>",
+  "dont": "<ul><li>Don't use it for big data, storage, edge computing.</li></ul>",
+  "tags": [
+    "on-demand",
+    "computer resource",
+    "cloud resource",
+    "computing power",
+    "cloud service",
+    "computing services",
+    "services",
+    "computing",
+    "servers",
+    "the cloud",
+    "infrastructure",
+    "eos"
+  ],
+  "category": "virtualization",
+  "type": "static",
+  "date": "23/08/2021",
+  "hasOutlined": true,
+  "dateOutlined": "23/08/2021"
+}

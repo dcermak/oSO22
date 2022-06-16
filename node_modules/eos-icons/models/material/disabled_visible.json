@@ -1,0 +1,12 @@
+{
+  "name": "disabled_visible",
+  "do": "",
+  "dont": "",
+  "tags": ["view", "eye", "blocked", "visualize"],
+  "category": ["action"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

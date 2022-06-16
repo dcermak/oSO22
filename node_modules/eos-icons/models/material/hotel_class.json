@@ -1,0 +1,12 @@
+{
+  "name": "hotel_class",
+  "do": "",
+  "dont": "",
+  "tags": ["star", "grade", "rating", "rank"],
+  "category": ["action"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

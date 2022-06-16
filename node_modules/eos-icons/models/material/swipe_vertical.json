@@ -1,0 +1,14 @@
+{
+  "name": "swipe_vertical",
+  "do": "",
+  "dont": "",
+  "tags": ["arrow", "gesture", "scroll", "slide", "vertical", "direction", "touch", "hand", "up"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

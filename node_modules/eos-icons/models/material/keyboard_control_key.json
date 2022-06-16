@@ -1,0 +1,20 @@
+{
+  "fileName": "keyboard_control_key",
+  "name": "keyboard_control_key",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "ctrl",
+    "access",
+    "cmd",
+    "computer",
+    "control",
+    "interface"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "folder_off",
+  "do": "",
+  "dont": "",
+  "tags": ["folder", "file", "open", "cancel", "remove", "storage"],
+  "category": [
+    "file"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

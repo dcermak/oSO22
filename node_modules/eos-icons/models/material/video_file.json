@@ -1,0 +1,14 @@
+{
+  "name": "video_file",
+  "do": "",
+  "dont": "",
+  "tags": ["Video", "screen", "label", "device", "film", "media", "movie", "play", "cam", "camera", "document"],
+  "category": [
+    "av"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "08/11/2021"
+}

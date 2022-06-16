@@ -1,0 +1,21 @@
+{
+  "fileName": "question_mark",
+  "name": "question_mark",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "answer",
+    "question",
+    "bubble",
+    "speech",
+    "converse",
+    "talk",
+    "conversation"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "08/11/2021"
+}

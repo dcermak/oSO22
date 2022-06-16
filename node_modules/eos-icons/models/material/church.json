@@ -1,0 +1,14 @@
+{
+  "name": "church",
+  "do": "",
+  "dont": "",
+  "tags": ["engagement", "mariage", "wedding", "ctholic", "celebration", "easter", "bible", "god", "pray", "prayer", "religion", "temple"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

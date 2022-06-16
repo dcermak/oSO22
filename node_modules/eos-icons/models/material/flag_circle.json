@@ -1,0 +1,14 @@
+{
+  "name": "flag_circle",
+  "do": "",
+  "dont": "",
+  "tags": ["country", "flag", "goal", "nation", "report", "start", "mark"],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

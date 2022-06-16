@@ -1,0 +1,14 @@
+{
+  "name": "send_time_extension",
+  "do": "",
+  "dont": "",
+  "tags": ["addon", "calendar", "date", "extension", "schedule"],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

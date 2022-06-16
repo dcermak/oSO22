@@ -1,0 +1,14 @@
+{
+  "name": "comments_disabled",
+  "do": "",
+  "dont": "",
+  "tags": ["Comment", "note", "bubble", "document", "doc"],
+  "category": [
+    "communication"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

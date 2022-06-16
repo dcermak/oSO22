@@ -1,0 +1,18 @@
+{
+  "fileName": "content_paste_search",
+  "name": "content_paste_search",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "text",
+    "edit",
+    "editor",
+    "find"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

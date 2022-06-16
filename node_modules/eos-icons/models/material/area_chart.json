@@ -1,0 +1,12 @@
+{
+  "name": "area_chart",
+  "do": "",
+  "dont": "",
+  "tags": ["diagram", "analytics", "graph"],
+  "category": ["editor"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

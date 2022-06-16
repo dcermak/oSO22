@@ -1,0 +1,23 @@
+{
+  "name": "adf_scanner",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "digital",
+    "electronic",
+    "image",
+    "printers",
+    "fax",
+    "photocopiers",
+    "automatic",
+    "document"
+  ],
+  "category": [
+    "hardware"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

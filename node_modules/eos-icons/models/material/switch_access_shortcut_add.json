@@ -1,0 +1,28 @@
+{
+  "name": "switch_access_shortcut_add",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "account",
+    "choices",
+    "face",
+    "human",
+    "multiple",
+    "options",
+    "people",
+    "person",
+    "profile",
+    "social",
+    "switch",
+    "user",
+    "new"
+  ],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

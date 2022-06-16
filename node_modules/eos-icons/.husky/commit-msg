@@ -1,0 +1,47 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Colors for terminal output
+RED='\033[0;31m'
+GREEN='\033[1;32m'
+YELLOW='\033[0;33m'
+
+# Read first line of the file
+fileContent=$(head -n 1 $1)
+# Evaluate the first line of the file
+testResult=$(node -e "require('./test/git-commit-checker.js').main('${fileContent}')")
+
+# Test if the result if matches the condition
+if [ "$testResult" = "isBreaking" ]
+then
+  # If the condition it's true, we requiere the user to specify the next action (move on or abort)
+  printf "${RED}***=== YOU'RE ABOUT TO COMMIT A MAJOR RELEASE ${NC} ===***\n"
+  read -p "Are you sure you want to continue? [Y/n]" doit < /dev/tty
+
+  # Commit or skip based on user input
+  case $doit in
+    n|N) echo "${YELLOW}Commit aborted\n"
+    exit 1
+    ;;
+    y|Y) echo "✅ ${GREEN} Thanks for the confirmation. Moving on with your commit\n"
+    exit 0 ;;
+  esac
+elif [ "$testResult" = "isNew" ]
+then
+ # If the condition it's true, we requiere the user to specify the next action (move on or abort)
+  printf "${RED}***=== YOU'RE ABOUT TO COMMIT A MINOR RELEASE ${NC} ===***\n"
+  read -p "Are you sure you want to continue? [Y/n]" doit < /dev/tty
+
+  # Commit or skip based on user input
+  case $doit in
+    n|N) echo "${YELLOW}Commit aborted\n"
+    exit 1
+    ;;
+    y|Y) echo "✅ ${GREEN} Thanks for the confirmation. Moving on with your commit\n"
+    exit 0 ;;
+  esac
+
+else
+  echo "✅ ${GREEN}Commit it is not of Breaking type, no need for manual confirmation\n"
+  exit 0
+fi

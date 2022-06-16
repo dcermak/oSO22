@@ -1,0 +1,14 @@
+{
+  "name": "swipe_right_alt",
+  "do": "",
+  "dont": "",
+  "tags": ["arrow", "arrows", "right", "vertical", "circle", "direction"],
+  "category": [
+    "action"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

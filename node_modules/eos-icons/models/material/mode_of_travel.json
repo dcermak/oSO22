@@ -1,0 +1,14 @@
+{
+  "name": "mode_of_travel",
+  "do": "",
+  "dont": "",
+  "tags": ["airplane", "flight", "fly", "transportation", "plane",  "transport", "travel", "destination"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

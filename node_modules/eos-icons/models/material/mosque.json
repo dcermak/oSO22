@@ -1,0 +1,14 @@
+{
+  "name": "mosque",
+  "do": "",
+  "dont": "",
+  "tags": [ "religion", "belief", "cultures", "muslim", "ramadan", "architecture", "prayer", "god"],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

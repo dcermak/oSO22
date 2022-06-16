@@ -1,0 +1,19 @@
+{
+  "fileName": "content_paste_go",
+  "name": "content_paste_go",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "text",
+    "edit",
+    "editor",
+    "writing",
+    "clipboard"
+  ],
+  "category": [
+    "content"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

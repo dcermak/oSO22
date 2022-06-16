@@ -1,0 +1,19 @@
+{
+  "name": "private_connectivity",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "lock",
+    "personal",
+    "individual",
+    "independent",
+    "exclusive",
+    "integration"
+  ],
+  "category": ["action"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

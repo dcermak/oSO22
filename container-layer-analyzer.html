@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>What made your container fat?</title>
+<meta name="author" content="Dan Čermák"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./node_modules/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="./node_modules/reveal.js/dist/theme/simple.css" id="theme"/>
+
+<link rel="stylesheet" href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css"/>
+
+<link rel="stylesheet" href="./custom-style.css"/>
+<link rel="stylesheet" href="./node_modules/reveal.js/plugin/highlight/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './node_modules/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2 class="title">What made your container fat?</h2>
+<p class="subtitle" style="color: Gray;">Visualizing the size of Container Layers</p>
+<p class="author">Dan Čermák</p>
+<div style="float:left"><img src="./media/HEX_blue_OSCAL.png" height="50px" style="margin-bottom:-15px"/> <a href="https://oscal.openlabs.cc/open-susse-summit/">oSO22</a></div>
+<div style="float:right;font-size:35px;"><p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#"><a href="https://creativecommons.org/licenses/by/4.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+CC BY 4.0 <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i></a></p></div>
+</section>
+
+
+<section>
+<section id="slide-org01f2ff6">
+<h2 id="org01f2ff6">who -u</h2>
+<p>
+Dan Čermák
+</p>
+
+<p>
+ <div style="float:center">
+ <table class="who-table">
+ <tr><td><i class="fab fa-suse"></i></td><td> Software Developer @SUSE</td></tr>
+ <tr><td><i class="fab fa-fedora"></i></td><td> i3 SIG, Package maintainer</td></tr>
+ <tr><td><i class="far fa-heart"></i></td><td> Developer Tools, Testing and Documentation, Home Automation</td></tr>
+ <tr></tr>
+ <tr></tr>
+ <tr><td><i class="fa-solid fa-globe"></i></td><td> <a href="https://dancermak.name/">https://dancermak.name</a></td></tr>
+ <tr><td><i class="fab fa-github"></i></td><td> <a href="https://github.com/dcermak/">dcermak</a> / <a href="https://github.com/D4N/">D4N</a></td></tr>
+ <tr><td><i class="fab fa-twitter"></i></td><td> <a href="https://twitter.com/DefolosDC/">@DefolosDC</a></td></tr>
+ <tr><td><i class="fab fa-mastodon"></i></td><td> <a href="https://mastodon.social/@Defolos">@Defolos@mastodon.social</a></td></tr>
+ </table>
+ </div>
+</p>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org36b3aa9">
+<h2 id="org36b3aa9">What problem is this solving?</h2>
+<ul>
+<li class="fragment appear">My container is too big, but where?</li>
+<li class="fragment appear">One of my layers got huge, but which one?</li>
+<li class="fragment appear"><a href="https://github.com/wagoodman/dive">dive</a> is cool, but I want prettier graphs</li>
+<li class="fragment appear">What is the difference between two layers?</li>
+
+</ul>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgb980c7b">
+<h2 id="orgb980c7b">Sunburst graphs!</h2>
+<p>
+ <img src="./media/single_layer_sunburst.jpg" height="500px"/>
+</p>
+
+</section>
+<section id="slide-orgb980c7b-split">
+
+<p>
+<video height="500" controls><source src="media/what_made_your_container_fat_demo_pull.webm" type="video/webm"></video>
+</p>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgd0c3762">
+<h2 id="orgd0c3762">Image Comparison</h2>
+<p>
+ <img src="./media/layer_comparison_sunburst.png" height="500px"/>
+</p>
+
+</section>
+<section id="slide-orgd0c3762-split">
+
+<p>
+<video height="500" controls><source src="media/what_made_your_container_fat_demo_compare.webm" type="video/webm"></video>
+</p>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org3f3c3f8">
+<h2 id="org3f3c3f8">Features</h2>
+<ul>
+<li data-fragment-index="1" class="fragment appear">Analyze images from arbitrary registries or from archives</li>
+<li data-fragment-index="2" class="fragment appear">Analyze foreign architecture images</li>
+<li data-fragment-index="3" class="fragment appear">Store images for later comparison</li>
+<li data-fragment-index="4" class="fragment appear">Rootless by default</li>
+<li data-fragment-index="5" class="fragment appear">Runs as a (containerized) webapp:</li>
+
+</ul>
+
+<div class="org-src-container">
+
+<pre  class="fragment appear" data-fragment-index="5"  ><code class="bash" >podman run --rm -p 5050:5050 \
+       ghcr.io/dcermak/container-layer-sizes:latest
+podman run –d -p 4040:4040 \
+       ghcr.io/dcermak/container-layer-sizes-backend:latest
+</code></pre>
+</div>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org97af7a3">
+<h2 id="org97af7a3">Give it a try!</h2>
+<p>
+ <i class="fab fa-github"></i> <a href="https://github.com/dcermak/container-layer-sizes"><code>dcermak/container-layer-sizes</code></a>
+ <img src="./media/qr.svg" height="500px"/>
+</p>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org8279fb0">
+<h2 id="org8279fb0">Legal</h2>
+<ul>
+<li><a href="https://revealjs.com/">reveal.js</a> MIT</li>
+<li><a href="https://fontawesome.com/">Font Awesome</a> CC-BY-4.0 and SIL OFL 1.1 and MIT</li>
+<li><a href="https://github.com/dcermak/container-layer-sizes/blob/main/LICENSE">container-layer-sizes</a> MIT</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<script src="./node_modules/reveal.js/dist/reveal.js"></script>
+<script src="./node_modules/reveal.js/plugin/highlight/highlight.js"></script>
+<script src="./node_modules/reveal.js/plugin/notes/notes.js"></script>
+
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+plugins: [RevealHighlight, RevealNotes, history],
+transition: 'none', hash: true
+});
+
+</script>
+</body>
+</html>

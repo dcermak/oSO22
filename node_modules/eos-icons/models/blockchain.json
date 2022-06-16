@@ -1,0 +1,17 @@
+{
+  "name": "blockchain",
+  "do": "<ul><li>use it to represent a blockchain or associated action</li></ul>",
+  "dont": "<ul><li>dont use it for network, containers, or clusters</li></ul>",
+  "tags": [
+    "blockchain",
+    "cryptocurrency",
+    "chain",
+    "blocks",
+    "decentralized",
+    "distributed",
+    "eos"
+  ],
+  "category": "development",
+  "type": "static",
+  "date": "8/20/2021"
+}

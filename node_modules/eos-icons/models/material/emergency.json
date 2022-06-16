@@ -1,0 +1,12 @@
+{
+  "name": "emergency",
+  "do": "",
+  "dont": "",
+  "tags": ["star", "accident", "urgency"],
+  "category": ["maps"],
+  "type": "static",
+  "label": "None",
+  "date": "28/04/2021",
+  "hasOutlined": true,
+  "dateOutlined": "28/04/2021"
+}

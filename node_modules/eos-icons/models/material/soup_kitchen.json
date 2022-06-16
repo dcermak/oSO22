@@ -1,0 +1,14 @@
+{
+  "name": "soup_kitchen",
+  "do": "",
+  "dont": "",
+  "tags": ["utensil", "bowl", "chinese", "food", "ladle", "spoon" ],
+  "category": [
+    "maps"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021",
+  "hasOutlined": true,
+  "dateOutlined": "01/11/2021"
+}

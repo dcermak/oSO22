@@ -1,0 +1,20 @@
+{
+  "fileName": "contrast",
+  "name": "contrast",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "light",
+    "dark",
+    "shadow",
+    "Control",
+    "adjust",
+    "camera"
+  ],
+  "category": [
+    "image"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}

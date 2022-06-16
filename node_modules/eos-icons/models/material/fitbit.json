@@ -1,0 +1,22 @@
+{
+  "fileName": "fitbit",
+  "name": "fitbit",
+  "do": "",
+  "dont": "",
+  "tags": [
+    "technology",
+    "clock",
+    "watch",
+    "fitness",
+    "gadget",
+    "sport",
+    "health",
+    "weight"
+  ],
+  "category": [
+    "social"
+  ],
+  "type": "static",
+  "label": "None",
+  "date": "01/11/2021"
+}
